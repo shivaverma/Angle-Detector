@@ -26,7 +26,7 @@ This Software read the angle tilted images.
 
 Network was able to read the angle close to 2.5 degree(average). Following is a snippet showing network reading clock. 
 
-<img src=result/result.png width="450">
+<img src=results/sample.png width="300">
 
 ---
 
