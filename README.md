@@ -2,7 +2,7 @@
 
 **version** - `1.0.0`
 
-This Software read the angle tilted images.
+This Software read the angle of tilted images. Images are rotated between -30 to 30 degree.
 
 ### Requirements
 
@@ -24,7 +24,7 @@ This Software read the angle tilted images.
 ---
 ### Performance
 
-Network was able to read the angle close to 2.5 degree(average). Following is a snippet showing network reading clock. 
+Network was able to read the angle close to 2.5 degree(average). Following is a snippet showing network reading the angle. 
 
 <img src=results/sample.png width="300">
 
