@@ -33,3 +33,4 @@ Network was able to read the angle close to 2.5 degree(average). Following is a 
 ### References
 
 - Download the [**dataset**](https://www.kaggle.com/shivajbd/imagerotation) for this project.
+- Read the [**blog**](https://shiva-verma.medium.com/image-angle-detection-using-neural-networks-77f38524951c) for this project.
